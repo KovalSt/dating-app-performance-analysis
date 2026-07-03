@@ -3,7 +3,7 @@
 📥 **[Dating_dashboard.pdf](https://github.com/user-attachments/files/29648485/Dating_dashboard.pdf)**
 
 ## 🎥 Dashboard Demo
-*https://github.com/user-attachments/assets/7af72bde-4731-4535-a089-06e0e18557e8*
+<video src="https://github.com/user-attachments/assets/7af72bde-4731-4535-a089-06e0e18557e8" controls="controls" width="100%"></video>
 
 ## 🎯 Business Context & Project Objective
 This project analyzes the user behavior, conversion funnels, and retention metrics of a mobile dating application (dataset: 50,000 unique users). The primary goal is to evaluate product engagement, identify critical churn points, and detect behavioral anomalies to provide actionable data-driven recommendations for the Product and Anti-Fraud teams.
