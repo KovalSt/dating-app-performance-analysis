@@ -1,7 +1,19 @@
 # 📊 Dating App Performance Analysis & Anomaly Detection
 
+📥 **[Dating_dashboard.pdf](https://github.com/user-attachments/files/29648485/Dating_dashboard.pdf)**
+
+## 🎥 Dashboard Demo
+*
+https://github.com/user-attachments/assets/7af72bde-4731-4535-a089-06e0e18557e8
+*
+
 ## 🎯 Business Context & Project Objective
 This project analyzes the user behavior, conversion funnels, and retention metrics of a mobile dating application (dataset: 50,000 unique users). The primary goal is to evaluate product engagement, identify critical churn points, and detect behavioral anomalies to provide actionable data-driven recommendations for the Product and Anti-Fraud teams.
+
+## 🖼️ Dashboard Previews
+*<img width="1272" height="713" alt="Screenshot 2026-07-03 205159" src="https://github.com/user-attachments/assets/69812516-be9c-4280-91ca-2063d5c1c223" />
+<img width="1274" height="714" alt="Screenshot 2026-07-03 205136" src="https://github.com/user-attachments/assets/5b11ee5b-6e9f-48eb-a975-d0e359fc9276" />
+<img width="1281" height="715" alt="Screenshot 2026-07-03 204932" src="https://github.com/user-attachments/assets/61306dca-6eeb-48e8-a327-8e4b47d96473" />*
 
 ## 🔍 Key Product Insights
 
